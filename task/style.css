@@ -1,0 +1,38 @@
+#content{
+   margin-top:100px;
+   margin-left:42%;
+  
+   margin-right:30%
+
+}
+
+#search-list
+{
+  display:none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+}
+
+.list-style
+{
+    display: block;
+    
+}
+
+.list-view-style
+{
+    list-style: none;
+}
+
+.list-style-strike
+{
+    text-decoration: line-through;
+}
+
+.list-style-none
+{
+    text-decoration: none;
+}
